@@ -1,5 +1,5 @@
 # Project-3
-Beverage Sales
+[Beverage Sales](https://github.com/bankoleifeolukayode/Project-3/blob/main/Beverage%20Data.pbix)
 # Beverage Sales PowerBI Project Report
 
 ## Project Overview
