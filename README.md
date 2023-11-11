@@ -1,10 +1,9 @@
 # Project-3
-[Beverage Sales](https://github.com/bankoleifeolukayode/Project-3/blob/main/Beverage%20Data.pbix)
 # Beverage Sales PowerBI Project Report
 
 ## Project Overview
 
-The "Beverage Sales" PowerBI project is a comprehensive data visualization and analytics solution designed to analyze and showcase the sales performance of a beverage company. This project utilizes PowerBI to create insightful and interactive dashboards, providing stakeholders with a clear understanding of key sales metrics, trends, and opportunities within the Coca-cola industry.
+The "[Beverage Sales](https://github.com/bankoleifeolukayode/Project-3/blob/main/Beverage%20Data.pbix)" PowerBI project is a comprehensive data visualization and analytics solution designed to analyze and showcase the sales performance of a beverage company. This project utilizes PowerBI to create insightful and interactive dashboards, providing stakeholders with a clear understanding of key sales metrics, trends, and opportunities within the Coca-cola industry.
 
 ## Objectives
 
